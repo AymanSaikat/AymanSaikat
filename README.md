@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**AymanSaikat/AymanSaikat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<br><br><br>
+<a href="https://aymansaikat.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=My+Portfolio" alt="My Portfolio" />
+</a>
+<br><br>
+<a href="https://aymansaikat.github.io">
+  <img src="https://img.shields.io/badge/ENTER-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<br><br>
+<h3>
+  <a href="https://aymansaikat.github.io">https://aymansaikat.github.io</a>
+</h3>
+</div>
